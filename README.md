@@ -1,1 +1,5 @@
-# excel_performance_dashboard_kevin_cookie_company
+# Excel Interactive Dashboard
+Just using:
+- Pivot tables
+- Slicers and Timeline
+- Charts
